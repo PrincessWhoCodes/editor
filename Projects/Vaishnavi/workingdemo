@@ -1,0 +1,9 @@
+<h1>My name is vaishnavi</h1>
+<h2>i just wanna see how it works </h2>/* --- SPLIT --- */h1{
+    color:green;
+    background-color:yellow
+}
+h2{
+    color:white;
+
+}/* --- SPLIT --- */console.log("hello from vaishnavi");

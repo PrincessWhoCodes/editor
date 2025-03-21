@@ -1,0 +1,7 @@
+<h1>Hello i am Kavya</h1>
+/* --- SPLIT --- */
+h1{
+    color:purple;
+    background-color:white
+}
+/* --- SPLIT --- */
